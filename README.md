@@ -12,22 +12,22 @@
 ### 경력 사항
 
 #### 백엔드 개발자
-""회사명 :"" [에프아이시스템](https://www.jobkorea.co.kr/recruit/co_read/c/fisystem)      
-""기간 :"" 2020년 11월 ~ 2024년 04월      
-""주요 업무 :""      
+**회사명 :** [에프아이시스템](https://www.jobkorea.co.kr/recruit/co_read/c/fisystem)      
+**기간 :** 2020년 11월 ~ 2024년 04월      
+**주요 업무 :**      
 - Spring Boot 기반 프로젝트 유지 보수 파견. (https://drone.onestop.go.kr/)      
 - 이후 Spring 기반 프로젝트 및 JSP, ES5, ESNext, React 관련 SI 업무 진행.      
 
 #### 프리랜서 (백엔드 개발자)      
-""회사명 :"" [유티정보(주)](https://www.jobkorea.co.kr/recruit/co_read/c/uti0405)      
-""기간 :"" 2023년 05월 ~ 2023년 12월      
-""주요 업무 :""      
+**회사명 :** [유티정보(주)](https://www.jobkorea.co.kr/recruit/co_read/c/uti0405)      
+**기간 :** 2023년 05월 ~ 2023년 12월      
+**주요 업무 :**      
 - 유지 보수 파견 사업에서 진행했던 프로젝트의 고도화 진행함에 있어서 이전 작업 내용 및 기존 소스코드 리뷰 및 고도화 작업 진행.        
 
 #### 풀스택 개발자        
-""회사명 :"" [IEA(아이이에이)](https://www.jobkorea.co.kr/Recruit/Co_Read/C/29693575?Oem_Code=C1)        
-""기간 :"" 2024년 09월 ~ 2025년 04월        
-""주요 업무 :""        
+**회사명 :** [IEA(아이이에이)](https://www.jobkorea.co.kr/Recruit/Co_Read/C/29693575?Oem_Code=C1)        
+**기간 :** 2024년 09월 ~ 2025년 04월        
+**주요 업무 :**        
 - SI 사업을 처음으로 진행하기 위하여 만들어진 부서에서의 PL의 역할로 근무.        
 - 퍼블리싱 작업 및 프론트 개발, 백엔드 개발을 담당.        
 
