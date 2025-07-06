@@ -1,8 +1,15 @@
 ## Choi DongHyuk(최동혁)
 
-## 경력 사항
+최동혁이에요.
 
-### 백엔드 개발자 @ ABC Tech
+### 경력 사항
+
+#### 첫 회사
+- 회사명 : 에프아이 시스템 (https://www.jobkorea.co.kr/recruit/co_read/c/fisystem)
+- 기간 : 2020년 11월 ~ 2024년 04월
+- 주요 업무
+
+#### 백엔드 개발자
 **기간:** 2020.01 ~ 2023.12  
 **주요 업무:**
 - Spring Boot 기반 API 개발
